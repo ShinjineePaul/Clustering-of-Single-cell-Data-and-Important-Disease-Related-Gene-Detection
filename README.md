@@ -1,0 +1,2 @@
+# Clustering-of-Single-cell-Data-and-Important-Disease-Related-Gene-Detection
+This project uses Visium FFPE Human Cervical Cancer scRNA-seq data to detect cell clusters and disease-related genes. It applies preprocessing, an autoencoder for dimensionality reduction, Leiden clustering, and ARI evaluation. Marker genes are identified via DGE and matched with known cancer genes for biological insights.
